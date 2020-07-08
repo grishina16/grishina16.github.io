@@ -1,3 +1,13 @@
+## Технические заметки
+
+### Водопровод
+
+### Отопление
+
+### Электрика
+
+## Известные проблемы и косяки застройщика
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/grishina16/grishina16.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
