@@ -1,9 +1,1 @@
-## [Текущие проблемы](https://github.com/grishina16/issues/issues)
-
-## Технические заметки
-
-### Водопровод
-
-### Отопление
-
-### Электрика
+# [Текущие проблемы](https://github.com/grishina16/issues/issues)
